@@ -19,7 +19,7 @@ public class _01ReverseArray {
 		}
 	}
 	// recursive way
-	static void reverseArray(int arr[], int start, int end)
+	static void reverseArray(int[] arr, int start, int end)
 	{
 		int temp;
 		if (start >= end)
