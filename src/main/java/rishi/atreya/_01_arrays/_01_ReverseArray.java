@@ -1,6 +1,6 @@
 package rishi.atreya._01_arrays;
 
-public class _01ReverseArray {
+public class _01_ReverseArray {
 	public static void main(String[] args) {
 		int[] input = {1,2,3,4,5};
 

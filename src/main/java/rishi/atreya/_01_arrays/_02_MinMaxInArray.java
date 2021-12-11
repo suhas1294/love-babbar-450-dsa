@@ -2,7 +2,7 @@ package rishi.atreya._01_arrays;
 
 import java.util.Arrays;
 
-public class _02MinMaxInArray {
+public class _02_MinMaxInArray {
 	public static void main(String[] args) {
 		int[] input = {1000, 11, 445, 1, 330, 3000};
 		int[] output = getMinMax(input, 0, input.length-1);
