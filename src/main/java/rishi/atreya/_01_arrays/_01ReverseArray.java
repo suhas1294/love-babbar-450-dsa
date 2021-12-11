@@ -14,8 +14,19 @@ public class _01ReverseArray {
 			start++;
 			end--;
 		}
-		for (int i = 0; i < input.length; i++) {
-			System.out.print(input[i] + "\t");
+		for (int j : input) {
+			System.out.print(j + "\t");
 		}
+	}
+	// recursive way
+	static void reverseArray(int arr[], int start, int end)
+	{
+		int temp;
+		if (start >= end)
+			return;
+		temp = arr[start];
+		arr[start] = arr[end];
+		arr[end] = temp;
+		reverseArray(arr, start+1, end-1);
 	}
 }
