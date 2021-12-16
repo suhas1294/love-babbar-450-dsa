@@ -1,6 +1,7 @@
 package rishi.atreya._01_arrays;
 
 import java.util.Arrays;
+import static rishi.atreya._099_utils.Util.swapIndicesOfanArray;
 
 public class _04_Sort012 {
     public static void main(String[] args) {
@@ -30,11 +31,7 @@ public class _04_Sort012 {
         sort01(arr);
         System.out.println(Arrays.toString(arr));
     }
-    static void swapIndicesOfanArray(int[] arr, int a, int b){
-        int temp = arr[a];
-        arr[a] = arr[b];
-        arr[b] = temp;
-    }
+
 
     static void sort01(int[] arr){
         int left = 0;
