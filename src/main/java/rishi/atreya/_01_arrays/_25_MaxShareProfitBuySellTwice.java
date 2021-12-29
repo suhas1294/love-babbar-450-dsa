@@ -1,6 +1,6 @@
 package rishi.atreya._01_arrays;
 
-public class _25_MaxSHareProfitBuySellTwice {
+public class _25_MaxShareProfitBuySellTwice {
     static int maxProfit(int price[], int arr_len) {
         // Create profit array and initialize it as 0
         int profit[] = new int[arr_len];
