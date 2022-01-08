@@ -1,0 +1,7 @@
+Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?
+
+https://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/
+
+https://www.prepbytes.com/blog/linked-list/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/
+
+https://stackoverflow.com/questions/5222730/why-is-merge-sort-preferred-over-quick-sort-for-sorting-linked-lists
