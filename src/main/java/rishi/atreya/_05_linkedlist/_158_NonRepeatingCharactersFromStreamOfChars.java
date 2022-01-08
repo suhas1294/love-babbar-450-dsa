@@ -3,7 +3,7 @@ package rishi.atreya._05_linkedlist;
 import java.util.ArrayList;
 import java.util.List;
 
-public class _157_NonRepeatingCharactersFromStreamOfChars {
+public class _158_NonRepeatingCharactersFromStreamOfChars {
     final static int MAX_CHAR = 256;
 
     static void findFirstNonRepeating(){

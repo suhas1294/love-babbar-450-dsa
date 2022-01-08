@@ -1,6 +1,6 @@
 package rishi.atreya._05_linkedlist;
 
-public class _156_NthNodeFromEndOfLL {
+public class _157_NthNodeFromEndOfLL {
 
     void printNthFromLast(int n){
         Node main_ptr = head;

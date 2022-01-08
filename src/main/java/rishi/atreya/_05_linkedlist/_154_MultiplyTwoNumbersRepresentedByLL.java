@@ -1,6 +1,6 @@
 package rishi.atreya._05_linkedlist;
 
-public class _153_MultiplyTwoNumbersRepresentedByLL {
+public class _154_MultiplyTwoNumbersRepresentedByLL {
 
     static long multiplyTwoLists(Node first, Node second){
         long N = 1000000007;

@@ -1,6 +1,6 @@
 package rishi.atreya._05_linkedlist;
 
-public class _155_SegregateOddEvenLL {
+public class _156_SegregateOddEvenLL {
     public void segregateEvenOdd() {
 
         Node evenStart = null;

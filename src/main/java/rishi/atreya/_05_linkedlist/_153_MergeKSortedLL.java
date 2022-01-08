@@ -3,7 +3,7 @@ package rishi.atreya._05_linkedlist;
 // Divide and Conquer
 // using minHeap: https://www.geeksforgeeks.org/merge-k-sorted-linked-lists-set-2-using-min-heap/
 
-public class _152_MergeKSortedLL {
+public class _153_MergeKSortedLL {
     // Takes two lists sorted in increasing order, and merge their nodes together to
     // make one big sorted list. Below function takes O(Log n) extra space for recursive calls,
     // but it can be easily modified to work with same time and O(1) extra space

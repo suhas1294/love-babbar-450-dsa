@@ -1,7 +1,7 @@
 package rishi.atreya._05_linkedlist;
 
 // https://www.geeksforgeeks.org/flattening-a-linked-list/
-public class _149_FlattenALinkedlist {
+public class _150_FlattenALinkedlist {
 
     Node flatten(Node root){
         if (root == null || root.right == null) return root;

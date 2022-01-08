@@ -1,6 +1,6 @@
 package rishi.atreya._05_linkedlist;
 
-public class _150_SortLLOf012 {
+public class _151_SortLLOf012 {
 
     void sortList(){
         int count[] = {0, 0, 0}; // initialise count of 0 1 and 2 as 0

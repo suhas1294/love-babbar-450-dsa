@@ -1,7 +1,7 @@
 package rishi.atreya._05_linkedlist;
 
 // using constant space
-public class _151_CloneALLWithNextAndRandomPointer {
+public class _152_CloneALLWithNextAndRandomPointer {
     static class Node {
 
         static Node clone(Node start){

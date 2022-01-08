@@ -1,6 +1,6 @@
 package rishi.atreya._05_linkedlist;
 
-public class _154_DeleteNodesWhichHasGreaterValuesToRight {
+public class _155_DeleteNodesWhichHasGreaterValuesToRight {
 
     // Deletes nodes which have a node with greater value node on left side
     void delLesserNodes(){
