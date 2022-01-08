@@ -1,0 +1,9 @@
+Can we reverse a linked list in less than O(n) ?
+
+
+No, we cannot reverse a linked list in O(n) time, because each pointer must be reversed or
+values must be interchanged to reverse a linked list.
+To do that we need to reach the last node which takes a pointer to
+reach last node which takes O(n) time. It can`t even be done by using recursive and iterative methods.
+
+https://www.geeksforgeeks.org/can-we-reverse-a-linked-list-in-less-than-on/
